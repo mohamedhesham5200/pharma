@@ -1,0 +1,113 @@
+span{
+    color: #e86781;
+    font-size:50px;
+    text-align: center;
+    display: inline;
+}
+.link{
+    text-decoration: none;
+}
+span.doc{
+    color:#212121;
+    font-size: 50px;
+    color: #0070CD;
+}
+div.st {
+    border-style: solid;
+    border-color: grey grey grey #e86781;
+    border-width: 3px 3px 3px 10px;
+    display: inline-block;
+    padding-left: 40px;
+    margin-top: 15%;
+    width: 70%;
+    height: 300px;
+    margin-left: 10%;
+    padding-top: 3%;
+    border-radius: 0px 0px 30px 0px;
+    background-color: #0070CD;
+    display:flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    overflow: auto;
+
+}
+body{
+        background-color:#E2E6EA;
+}
+div.logo{
+    width: 100%;
+    height: 70px;
+}
+ul{
+    width: auto;
+    float: right;
+    margin-top: 8px;
+    margin-right: 17%;
+    border: 0 0 #252526 0;
+    border-style: solid;
+    border-radius: 0px 0px 0px 0px;    
+}
+li{
+    display: inline-block;
+    padding: 15px 30px;
+}
+
+a{
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.5vw;
+    color: #e86781;
+}
+a:hover{
+    color:#0070CD;
+    transition: 0.5s;
+}
+.name{
+    margin-right: 60px;
+    background-color: #0070CD;
+    font-size: 30px;
+    margin-top: -10px;
+    display: block;
+    width: 80%;
+}
+#theme{
+    font-size: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.order{
+    background-color: aliceblue;
+    border-radius: 30px;
+    min-width: 280px;
+    height: 35px;
+    text-align:center;
+    padding-top: 6px;
+    margin-top: 200px;
+    
+}
+div.st .ll {
+    display: block;
+    background-color: #0070CD;
+}
+div.st .ll .adress{
+    background-color: #0070CD;
+    font-size: 30px;
+    
+}
+.adress1{
+    background: none;
+}
+.photo{
+    display:inline;
+}
+#icon{
+    width: 30px;
+    cursor: pointer;
+}
+.dark-mode {
+    background-color: #252526;
+    color: #0070CD;
+}
+p{
+    color: #252526;
+}
