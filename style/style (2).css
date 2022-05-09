@@ -98,8 +98,3 @@ body{
 #p{
     color: #e86781;
 }
-div.st:hover{
-    -webkit-transform: scale(1.1,1.1);
-    transform: scale(1.1,1.1);
-    transition: 0.5s;
-}
